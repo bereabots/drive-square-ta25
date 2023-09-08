@@ -1,4 +1,3 @@
-# Project 1: Wall Following (F23)
+# Drive Square (F23)
 
-Template code for Project 1: Wall Following. See [project instructions](https://hellorob.org/projects/p1)
-for more details.
+Template code for Drive Square, a first step of driving programmatically
